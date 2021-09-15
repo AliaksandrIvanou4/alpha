@@ -1,0 +1,7 @@
+<script language="JavaScript">
+document.write("Reffer link с <b>"+document.referrer+"</b>");
+document.write("<BR>Browser: <b>"+navigator.appName+"</b>");
+document.write("<BR>Code name: <b>"+navigator.appCodeName+"</b>");
+document.write("<BR>Version: <b>"+ navigator.appVersion+"</b>")
+document.write("<br>Addition info: <b>"+navigator.userAgent+"</b>");
+</script>
